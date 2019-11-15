@@ -10,11 +10,19 @@ Genre:
 Platform:
 
 Folder Sturcture
+
 \src
+
 \src\packages
+
 \assets
+
 \docs
+
 \build
-\build\POC
-\build\VS
-\build\Final
+
+\build\0.1POC
+
+\build\0.2VS
+
+\build\0.3Final
